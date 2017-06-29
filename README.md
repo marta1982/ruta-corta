@@ -1,1 +1,2 @@
 # ruta-mas-corta
+Este código es utilizado en la aplicación web conectando la educación www.educanarias.es. Dicha aplicación es un TFG perteneciente a la UNIR (adaptación al grado de ingeniería informática).
